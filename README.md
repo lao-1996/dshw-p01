@@ -202,7 +202,7 @@ pip install -r requirements.txt
 - [x] 图 1-5 完成并保存，每图有解读
 - [x] CAPM 回归表格及三个讨论问题回答
 - [x] `report.html` 存在且可独立阅读
-- [ ] GitHub 仓库同步（待推送）
+- [x] GitHub 仓库同步：https://github.com/lao-1996/dshw-p01
 - [x] `.gitignore` 配置正确
 - [ ] GitHub Pages（加分项，可选）
 
