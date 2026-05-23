@@ -156,7 +156,7 @@ dshw-p01/
 
 ## 九、GitHub 仓库
 
-- **仓库地址**：[待补充]
+- **仓库地址**：https://github.com/lao-1996/dshw-p01
 - **仓库名**：`dshw-p01`
 
 ---
